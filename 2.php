@@ -88,8 +88,8 @@ $W  = "\e[0;37m";
 $acak = array("$G","$R","$P","$B","$Cy");
 shuffle($acak);
 $hacak=array_shift($acak);
-echo "$hacak    .SANCAN
-     \/                               \n";
+echo "$hacak    .ⓢⓐⓝⓒⓐⓝ
+                              \n";
 echo "$B TEMBAK PAKET THREE\n\n";
 echo "$Y [•] Nomer\t = $G";
 $nomor = trim(fgets(STDIN));
