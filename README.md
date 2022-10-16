@@ -7,3 +7,5 @@ $ pkg install php
 $ pkg install php7
 
 $ pkg install curl
+
+php run.php --three
